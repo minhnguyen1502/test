@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">test</string>
+    <string name="theme_prompt">Choose a theme</string>
+    <string-array name="theme_array">
+        <item>liquid_crystal_spill</item>
+    </string-array>
+    <string name="banner_ad_unit_id">ca-app-pub-2059382170925909/6634720855</string>
+</resources>
